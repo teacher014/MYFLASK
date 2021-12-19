@@ -1,0 +1,2447 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>±â»óÃ» À°»ó Áß±â¿¹º¸</title>
+<link/>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp
+<description>±â»óÃ» ³¯¾¾ À¥¼­ºñ½º</description>
+<language>ko</language>
+<generator>±â»óÃ»</generator>
+<pubdate>2021³â 12¿ù 19ÀÏ (ÀÏ)¿äÀÏ 06:00</pubdate>
+<item>
+<author>±â»óÃ»</author>
+<category>À°»óÁß±â¿¹º¸</category>
+<title>°æ»ó³²,ºÏµµ À°»ó Áß±â¿¹º¸ - 2021³â 12¿ù 19ÀÏ (ÀÏ)¿äÀÏ 06:00 ¹ßÇ¥</title>
+<link/>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp</guid>
+<description>
+<header>
+<title>°æ»ó³²,ºÏµµ À°»óÁß±â¿¹º¸</title>
+<tm>202112190600</tm>
+<wf><![CDATA[¡Û (ÇÏ´Ã»óÅÂ) ÀÌ¹ø ¿¹º¸±â°£¿¡´Â ´ëÃ¼·Î ¸¼°Ú½À´Ï´Ù.<br />¡Û (±â¿Â) 22ÀÏ(¼ö)~24ÀÏ(±Ý) ¾ÆÄ§ ±â¿ÂÀº -4~6µµ, ³· ±â¿ÂÀº 8~15µµ·Î ¾îÁ¦(18ÀÏ, ¾ÆÄ§ÃÖÀú±â¿Â -10~-6µµ, ³·ÃÖ°í±â¿Â 1~4µµ)º¸´Ù ³ô°Ú½À´Ï´Ù.<br />          25ÀÏ(Åä)~29ÀÏ(¼ö) ¾ÆÄ§ ±â¿ÂÀº -10~3µµ, ³· ±â¿ÂÀº 1~8µµ·Î ¾îÁ¦¿Í ºñ½ÁÇÏ°Å³ª Á¶±Ý ³ô°Ú½À´Ï´Ù.<br />¡Û (ÇØ»ó) ³²ÇØµ¿ºÎÇØ»óÀº 25ÀÏ(Åä)~27ÀÏ(¿ù)¿¡ ¹°°áÀÌ 1.0~3.0m ³ô°Ô ÀÏ°ÚÀ¸¸ç, µ¿ÇØ³²ºÎÇØ»óÀº 23ÀÏ(¸ñ) ¿ÀÈÄ, 25ÀÏ(Åä)~29ÀÏ(¼ö)¿¡ ¹°°áÀÌ 1.0~4.0m·Î ¸Å¿ì ³ô°Ô ÀÏ°Ú½À´Ï´Ù.]]></wf>
+</header>
+<body>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ºÎ»ê</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>6</tmn>
+<tmx>15</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>6</tmn>
+<tmx>15</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>5</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>5</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>6</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>6</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>¿ï»ê</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>Ã¢¿ø</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÁøÁÖ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>°ÅÃ¢</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-3</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-3</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-10</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-10</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>Åë¿µ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>4</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>4</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>4</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>4</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>¾ç»ê</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>±èÇØ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>2</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>2</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>2</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>1</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>»çÃµ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>°ÅÁ¦</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>3</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>°í¼º</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>³²ÇØ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>1</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>2</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÇÔ¾ç</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÇÕÃµ</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>¹Ð¾ç</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>7</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÀÇ·É</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-4</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>10</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-8</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÇÔ¾È</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-4</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-10</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-10</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>Ã¢³ç</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>13</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-3</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>8</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-9</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>»êÃ»</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-2</tmn>
+<tmx>12</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>9</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>2</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>1</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-5</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>4</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-3</tmn>
+<tmx>5</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+<location wl_ver="3">
+<province>ºÎ»ê¤ý¿ï»ê¤ý°æ»ó³²µµ</province>
+<city>ÇÏµ¿</city>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-22 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>0</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-1</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-23 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>-1</tmn>
+<tmx>14</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 00:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>30</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-24 12:00</tmef>
+<wf>±¸¸§¸¹À½</wf>
+<tmn>0</tmn>
+<tmx>11</tmx>
+<reliability></reliability>
+<rnst>40</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>20</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-25 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-2</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2021-12-26 12:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-7</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-27 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-28 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-6</tmn>
+<tmx>3</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+<data>
+<mode>A01</mode>
+<tmef>2021-12-29 00:00</tmef>
+<wf>¸¼À½</wf>
+<tmn>-4</tmn>
+<tmx>6</tmx>
+<reliability></reliability>
+<rnst>0</rnst>
+</data>
+</location>
+</body>
+</description>
+</item>
+</channel>
+</rss> 
